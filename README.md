@@ -9,7 +9,7 @@ http://www.stencyl.com/game/play/36672
 This was a game made for Ludum Dare 38.
 # Club Project: 
 https://github.com/kantieno/VGDC_GAME
-This is a project for VIdeo Game Development club that I am currently managing, made in Unity.
+This is a project for VIdeo Game Development Club that I am currently managing, made in Unity.
 # Capstone Project: 
 https://github.com/kantieno/AlarmClockPets
 This is an Android application serving as an engaging alarm clock, made in Game Maker.
