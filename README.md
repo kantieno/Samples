@@ -2,14 +2,14 @@
 These are some games and projects I have made over the years using various game engines.
 
 # First Game I released: 
-https://www.kongregate.com/games/kantieno/hidden-valley-ninja
 This was my first large project, I learned a lot about creating manageable project scopes.
-# 48 Hour Game Jam: 
+https://www.kongregate.com/games/kantieno/hidden-valley-ninja
+# 48 Hour Game Jam:
+This was a game made for Ludum Dare 38. 
 http://www.stencyl.com/game/play/36672
-This was a game made for Ludum Dare 38.
-# Club Project: 
+# Club Project:
+This is a project for VIdeo Game Development Club that I am currently managing, made in Unity. 
 https://github.com/kantieno/VGDC_GAME
-This is a project for VIdeo Game Development Club that I am currently managing, made in Unity.
-# Capstone Project: 
+# Capstone Project:
+This is an Android application serving as an engaging alarm clock, made in Game Maker. 
 https://github.com/kantieno/AlarmClockPets
-This is an Android application serving as an engaging alarm clock, made in Game Maker.
