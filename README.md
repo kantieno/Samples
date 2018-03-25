@@ -2,7 +2,7 @@
 These are some games and projects I have made over the years using various game engines.
 
 # First Game I released: 
-This was my first large project, I learned a lot about creating manageable project scopes.
+This was my first large project. I learned a lot from this experience, especially about creating manageable project sizes.
 
 https://www.kongregate.com/games/kantieno/hidden-valley-ninja
 # 48 Hour Game Jam:
