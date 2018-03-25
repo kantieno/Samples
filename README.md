@@ -10,10 +10,10 @@ This was a game made for Ludum Dare 38, as a solo developer in 48 hours.
 
 http://www.stencyl.com/game/play/36672
 # Club Project:
-This is a project for VIdeo Game Development Club that I am currently managing, made in Unity. 
+This is a project for Video Game Development Club that I am currently managing, made in Unity. 
 
 https://github.com/kantieno/VGDC_GAME
 # Capstone Project:
-This is an Android application serving as an engaging alarm clock, made in Game Maker. 
+This is an Android application I am currently developing which serves as an engaging alarm clock, which is being made in Game Maker. 
 
 https://github.com/kantieno/AlarmClockPets
