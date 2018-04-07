@@ -17,4 +17,4 @@ https://github.com/kantieno/VGDC_GAME
 This is an Android application I am currently developing which serves as an engaging alarm clock, which is being made in Game Maker. 
 
 https://github.com/kantieno/AlarmClockPets
-![UI WIP](http://github.com/kantieno/blob/master/AlarmClockPets/path720.png)
+![UI WIP](http://github.com/kantieno/AlarmClockPets/blob/master/path720.png)
