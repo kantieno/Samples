@@ -5,6 +5,12 @@ These are some games and projects I have made over the years using various game 
 This was my first large project. I learned a lot from this experience, especially about creating manageable project sizes.
 
 https://www.kongregate.com/games/kantieno/hidden-valley-ninja
+# Harvest Idle: 
+This was my most recent project. Development is ongoing and there are plans to rebuild it in Unity and incorporate PlayFab services.
+
+https://www.kongregate.com/games/kantieno/harvest-idle
+
+
 # 48 Hour Game Jam:
 This was a game made for Ludum Dare 38, as a solo developer in 48 hours.
 
