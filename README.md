@@ -26,5 +26,5 @@ For my Capstone Project I developed an android application which serves as an al
 
 https://github.com/kantieno/AlarmClockPets
 
-//![UI WIP](https://raw.githubusercontent.com/kantieno/AlarmClockPets/master/path720.png)
+
 <img src="https://raw.githubusercontent.com/kantieno/AlarmClockPets/master/path720.png" width="300" >
