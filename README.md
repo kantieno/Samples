@@ -1,27 +1,24 @@
 # Samples
-These are some games and projects I have made over the years using various game engines.
 
 # First Game I released: 
-This was my first large project. I learned a lot from this experience, especially about creating manageable project sizes.
-
+Hidden Valley Ninja was my first large project released commercially. I worked as a solo dev gaining a throough understanding of the development process from beginning to end.
 https://www.kongregate.com/games/kantieno/hidden-valley-ninja
-# Harvest Idle: 
-This was my most recent project. Development is ongoing and there are plans to rebuild it in Unity and incorporate PlayFab services.
 
+# Harvest Idle: 
+Harvest Idle is an idle farming game released originally  on Kongregate as a flash game. In 2022 it was ported to HTML5 and re-released. 
 https://www.kongregate.com/games/kantieno/harvest-idle
 
 
 # 48 Hour Game Jam:
-This was a game made for Ludum Dare 38, as a solo developer in 48 hours.
-
+"World of My Own" was created for Ludum Dare 38 as a solo developer in 48 hours.
 http://www.stencyl.com/game/play/36672
+
 # Club Project:
-This is a project for Video Game Development Club that I am currently managing, made in Unity. 
-
+For Video Game Development Club's first project I led the team in developing a 3D game using Unity. 
 https://github.com/kantieno/VGDC_GAME
-# Capstone Project:
-This is an Android application I am currently developing which serves as an engaging alarm clock, which is being made in Game Maker. 
 
+# Capstone Project:
+For my Capstone Project I developed an android application which serves as an alarm clock that provides engaging activities upon waking. 
 https://github.com/kantieno/AlarmClockPets
 
 ![UI WIP](https://raw.githubusercontent.com/kantieno/AlarmClockPets/master/path720.png)
