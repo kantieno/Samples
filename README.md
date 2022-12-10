@@ -1,5 +1,10 @@
 # Samples
 
+# Video Portfolio
+
+https://user-images.githubusercontent.com/36177609/206814235-84142ad1-66ee-4cc9-9cfe-ff06bbdea094.mp4
+
+
 # First Commercial Game: 
 Hidden Valley Ninja was my first large project released commercially. I worked as a solo dev gaining a throough understanding of the development process from beginning to end.
 
