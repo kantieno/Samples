@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/36177609/231233255-87c2a163-40f4-4f48-
 
 
 # First Commercial Game: 
-Hidden Valley Ninja was my first large project released commercially. I worked as a solo dev gaining a throough understanding of the development process from beginning to end.
+Hidden Valley Ninja was my first large project released commercially. I worked as a solo dev gaining a thorough understanding of the development process from beginning to end.
 
 https://www.kongregate.com/games/kantieno/hidden-valley-ninja
 
