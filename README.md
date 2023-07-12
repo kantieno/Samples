@@ -12,6 +12,7 @@ https://user-images.githubusercontent.com/36177609/231233255-87c2a163-40f4-4f48-
 Hidden Valley Ninja was my first large project released commercially. I worked as a solo dev gaining a thorough understanding of the development process from beginning to end.
 
 https://www.kongregate.com/games/kantieno/hidden-valley-ninja
+(Due to the deprecation of flash, see portfolio video for gameplay samples)
 
 # Harvest Idle: 
 Harvest Idle is an idle farming game released originally  on Kongregate as a flash game. In 2022 it was ported to HTML5 and re-released. 
