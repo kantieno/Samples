@@ -29,11 +29,3 @@ http://www.stencyl.com/game/play/36672
 For Video Game Development Club's first project I led the team in developing a 3D game using Unity. 
 
 https://github.com/kantieno/VGDC_GAME
-
-# Capstone Project:
-For my Capstone Project I developed an android application which serves as an alarm clock that provides engaging activities upon waking. 
-
-https://github.com/kantieno/AlarmClockPets
-
-
-<img src="https://raw.githubusercontent.com/kantieno/AlarmClockPets/master/path720.png" width="300" >
